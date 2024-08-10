@@ -53,7 +53,7 @@ const Index = () => {
 
       <section className="py-20 px-4 bg-white/10 backdrop-blur-lg">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-4xl font-bold mb-12 text-center">Why Dogs Are Amazing</h2>
+          <h2 className="text-4xl font-bold mb-12 text-center">Dogs Are Amazing</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             <Card className="bg-transparent border-2 border-white/20">
               <CardHeader>
