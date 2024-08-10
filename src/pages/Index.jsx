@@ -113,9 +113,13 @@ const Index = () => {
       <section className="py-20 px-4 bg-white/10 backdrop-blur-lg">
         <div className="max-w-6xl mx-auto">
           <h2 className="text-4xl font-bold mb-12 text-center">Dog Gallery</h2>
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <img src="https://images.unsplash.com/photo-1587300003388-59208cc962cb" alt="Cute dog" className="w-full h-80 object-cover rounded-lg shadow-lg" />
             <img src="https://images.unsplash.com/photo-1534361960057-19889db9621e" alt="Playful dog" className="w-full h-80 object-cover rounded-lg shadow-lg" />
+            <img src="https://images.unsplash.com/photo-1517849845537-4d257902454a" alt="Dog with sunglasses" className="w-full h-80 object-cover rounded-lg shadow-lg" />
+            <img src="https://images.unsplash.com/photo-1583511655857-d19b40a7a54e" alt="Golden Retriever" className="w-full h-80 object-cover rounded-lg shadow-lg" />
+            <img src="https://images.unsplash.com/photo-1477884213360-7e9d7dcc1e48" alt="Dog on beach" className="w-full h-80 object-cover rounded-lg shadow-lg" />
+            <img src="https://images.unsplash.com/photo-1576201836106-db1758fd1c97" alt="Husky dog" className="w-full h-80 object-cover rounded-lg shadow-lg" />
           </div>
         </div>
       </section>
